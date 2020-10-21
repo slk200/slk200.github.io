@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://slk200.github.io</id>
     <title>slk200个人博客</title>
-    <updated>2020-09-17T07:19:32.795Z</updated>
+    <updated>2020-10-21T14:11:49.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://slk200.github.io"/>
     <link rel="self" href="https://slk200.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://slk200.github.io/images/avatar.png</logo>
     <icon>https://slk200.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, slk200个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[卡式电烤炉 详情页]]></title>
+        <id>https://slk200.github.io/post/qia-shi-dian-kao-lu-xiang-qing-ye/</id>
+        <link href="https://slk200.github.io/post/qia-shi-dian-kao-lu-xiang-qing-ye/">
+        </link>
+        <updated>2020-10-08T13:35:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尚心 平面广告]]></title>
+        <id>https://slk200.github.io/post/shang-xin-ping-mian-guang-gao/</id>
+        <link href="https://slk200.github.io/post/shang-xin-ping-mian-guang-gao/">
+        </link>
+        <updated>2020-10-02T13:42:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡维特 精装接头 详情页]]></title>
+        <id>https://slk200.github.io/post/qia-wei-te-jing-zhuang-jie-tou-xiang-qing-ye/</id>
+        <link href="https://slk200.github.io/post/qia-wei-te-jing-zhuang-jie-tou-xiang-qing-ye/">
+        </link>
+        <updated>2020-10-02T13:33:50.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深山百花蜜 包装 效果图]]></title>
         <id>https://slk200.github.io/post/shen-shan-bai-hua-mi-bao-zhuang/</id>
@@ -39,6 +60,13 @@
         <updated>2020-06-20T07:03:06.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[不锈钢屏风 详情页]]></title>
+        <id>https://slk200.github.io/post/bu-xiu-gang-ping-feng-xiang-qing-ye/</id>
+        <link href="https://slk200.github.io/post/bu-xiu-gang-ping-feng-xiang-qing-ye/">
+        </link>
+        <updated>2020-06-14T13:07:27.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[亨泊啤酒 详情页]]></title>
         <id>https://slk200.github.io/post/heng-bo-pi-jiu-xiang-qing-ye/</id>
         <link href="https://slk200.github.io/post/heng-bo-pi-jiu-xiang-qing-ye/">
@@ -46,38 +74,10 @@
         <updated>2020-05-20T07:50:47.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[亨泊啤酒 宣传广告（部分）]]></title>
-        <id>https://slk200.github.io/post/heng-bo-pi-jiu-xuan-chuan-guang-gao-bu-fen/</id>
-        <link href="https://slk200.github.io/post/heng-bo-pi-jiu-xuan-chuan-guang-gao-bu-fen/">
+        <title type="html"><![CDATA[威翎 项目合同书]]></title>
+        <id>https://slk200.github.io/post/wei-ling-xiang-mu-he-tong-shu/</id>
+        <link href="https://slk200.github.io/post/wei-ling-xiang-mu-he-tong-shu/">
         </link>
-        <updated>2020-04-25T07:28:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凯威森 保温杯 详情页]]></title>
-        <id>https://slk200.github.io/post/kai-wei-sen-bao-wen-bei-xiang-qing-ye/</id>
-        <link href="https://slk200.github.io/post/kai-wei-sen-bao-wen-bei-xiang-qing-ye/">
-        </link>
-        <updated>2020-04-14T08:01:48.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地磅秤 详情页]]></title>
-        <id>https://slk200.github.io/post/di-bang-cheng-xiang-qing-ye/</id>
-        <link href="https://slk200.github.io/post/di-bang-cheng-xiang-qing-ye/">
-        </link>
-        <updated>2020-03-15T11:16:40.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三思 衡器广告]]></title>
-        <id>https://slk200.github.io/post/san-si-heng-qi-guang-gao/</id>
-        <link href="https://slk200.github.io/post/san-si-heng-qi-guang-gao/">
-        </link>
-        <updated>2019-12-14T12:58:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地钻 详情页]]></title>
-        <id>https://slk200.github.io/post/di-zuan-xiang-qing-ye/</id>
-        <link href="https://slk200.github.io/post/di-zuan-xiang-qing-ye/">
-        </link>
-        <updated>2019-12-10T06:58:11.000Z</updated>
+        <updated>2020-05-15T14:00:15.000Z</updated>
     </entry>
 </feed>
